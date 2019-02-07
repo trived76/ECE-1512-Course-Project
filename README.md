@@ -1,4 +1,4 @@
-# MIE-1512-Course-Project
+# ECE-1512-Course-Project
 This repo is for Digital Image Processing Course project (Team work).
 
 Project Proposal Due: 11th February 2019.
