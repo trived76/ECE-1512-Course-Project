@@ -20,3 +20,11 @@ The dataset is available at this link : https://www.kaggle.com/kumaresanmanickav
 2. To_show_Video: Result of application on a video
 
 The cpp folder, crfrnn_layer and high_dim_filter_loader have been taken from the GitHub repo of the authors of CRFasRNN. They can be found at the follwoing location:  https://github.com/sadeepj/crfasrnn_keras
+
+
+Contributors:
+
+1. Maharshi Trivedi (trived76)
+2. Vaibhav Gupta (vaibhavpec2012)
+
+The content was equally assimilated and created by both the contributors. 
