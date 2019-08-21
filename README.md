@@ -1,5 +1,5 @@
 # Semantic-Segmentation
-This repository is for Digital Image Processing Course project (Team work). We wanted to explore state-of-art computer vision semantic segmentation algorithms. With images, there are three main types that we can tailor for any application: Image classification, Object detection and Sematic segmentation. You might have seen pixel-wise labelling of the image, yes, that is what the sematic segmentation is for! 
+This repository is for Digital Image Processing Course project (Team work). We wanted to explore state-of-art computer vision semantic segmentation algorithms. With images, there are three main solutions that we can tailor for any application: Image classification, Object detection and Sematic segmentation. You might have seen pixel-wise labelling of the image, yes, that is what the sematic segmentation is for! 
 
 
 ## Tasks:
